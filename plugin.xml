@@ -32,18 +32,10 @@
         
         <!-- iOS9 whitelisting -->
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
-            <array>
-                <string>twitter</string>
-                <string>fb</string>
-                <string>whatsapp</string>
-                <string>itms-apps</string>
-                <string>youtube</string>
-                <string>soundcloud</string>
-                <string>fb-messenger</string>
-                <string>instagram</string>
-				<string>FilePlugin</string>
-				<string>HeartReaderPlugin</string>
-            </array>
+	<dict>
+	  <key>NSCameraUsageDescription</key>
+	  <string>Camera is being used to measure your heartbeat.</string>
+	</dict>
         </config-file>
         
         

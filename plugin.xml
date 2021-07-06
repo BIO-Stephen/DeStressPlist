@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<plugin version="0.0.3" id="cordova-plugin-edit-plist-file" xmlns:android="http://schemas.android.com/apk/res/android" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin version="0.0.3" id="cordova-plugin-edit-plist-file" xmlns:android="http://schemas.android.com/apk/res/android" xmlns="http://apache.org/cordova/ns/plugins/1.0">
 
 <name>Edit Plist file</name>
 
